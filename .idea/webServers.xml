@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6f11e316-8d56-4e7f-aa97-fb2cf35db8d8" name="Cyberfolks - Flakit">
+        <fileTransfer rootFolder="/home/flak92hosting/domains/flakit.pl/public_html" accessType="SFTP" host="s6.cyber-folks.pl" port="222" sshConfigId="6f79fde1-e559-4813-a4ea-d9b996b45d21" sshConfig="flak92hosting@s6.cyber-folks.pl:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

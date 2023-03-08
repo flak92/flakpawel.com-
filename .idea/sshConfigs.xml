@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="s6.cyber-folks.pl" id="6f79fde1-e559-4813-a4ea-d9b996b45d21" port="222" nameFormat="DESCRIPTIVE" username="flak92hosting" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
